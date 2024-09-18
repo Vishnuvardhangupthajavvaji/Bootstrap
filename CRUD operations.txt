@@ -8,6 +8,7 @@ public class CRUDEX {
 
     public static void main(String[] args) {
         try {
+//edited 
             // Load the MySQL JDBC driver
             Class.forName("com.mysql.cj.jdbc.Driver");
             
